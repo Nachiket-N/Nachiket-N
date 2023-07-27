@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nachiket-N
-- 👀 I’m interested in Backend Web Development, Blockchain, IoT, Machine Learning
-- 🌱 I’m currently learning Blockchain and NodeJS
-- 💞️ I’m looking to collaborate on NodeJS projects
-- 📫 How to reach me nachiket.n@somaiya.edu
+- 👀 I’m interested in Quantitative Finance, Financial Engineering and, Machine Learning
+- 🌱 I’m currently a graduate student in the MS Operations Research program at Columbia University
+- 💞️ I’m looking to work on quant projects
+- 📫 How to reach me nachiket.n@columbia.edu
 
 <!---
 Nachiket-N/Nachiket-N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
