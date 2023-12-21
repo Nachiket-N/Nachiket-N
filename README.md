@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nachiket-N
 - 👀 I’m interested in Quantitative Finance, Financial Engineering and, Machine Learning
 - 🌱 I’m currently a graduate student in the MS Operations Research program at Columbia University
-- 💞️ I’m looking to work on quant projects
+- 💞️ I’m looking to work on interesting research projects
 - 📫 How to reach me nachiket.n@columbia.edu
 
 <!---
